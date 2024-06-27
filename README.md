@@ -1,2 +1,2 @@
-# spring-cloud-alibaba-rpc-dubbo-starter
+# spring-cloud-alibaba-rpc
 glcc赛题
